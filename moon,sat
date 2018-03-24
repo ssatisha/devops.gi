@@ -1,0 +1,12 @@
+total 180
+drwxrwxr-x 4 edureka edureka   4096 Mar 23 23:38 src
+-rw-rw-r-- 1 edureka edureka   3284 Mar 23 23:38 README.md
+-rw-rw-r-- 1 edureka edureka  20453 Mar 23 23:38 pom.xml
+-rw-rw-r-- 1 edureka edureka  23417 Mar 23 23:38 build.xml
+-rw-rw-r-- 1 edureka edureka   4492 Mar 23 23:38 build.properties
+-rw-rw-r-- 1 edureka edureka 116902 Mar 23 23:38 addressbook_screenshot.png
+-rw-rw-r-- 1 edureka edureka      0 Mar 23 23:42 Test1.txt
+-rw-rw-r-- 1 edureka edureka     10 Mar 24 21:19 config.xml
+-rw-rw-r-- 1 edureka edureka      0 Mar 24 22:51 test2.txt
+-rw-rw-r-- 1 edureka edureka      0 Mar 24 23:04 moon.sat
+-rw-rw-r-- 1 edureka edureka      0 Mar 24 23:04 moon,sat
